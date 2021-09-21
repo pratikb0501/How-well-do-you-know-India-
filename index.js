@@ -6,7 +6,7 @@ console.log(`Hello ${userName}`);
 
 const array = [
   {
-    question : "\n Which city is said to be the finacial capital of India ? \n a. Chennai \n b. Mumbai \n c. Surat \n d. Kolkata \n",
+    question : "\n Which city is said to be the financial capital of India ? \n a. Chennai \n b. Mumbai \n c. Surat \n d. Kolkata \n",
     answer : "b"
   },
     {
